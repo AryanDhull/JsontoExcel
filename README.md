@@ -30,7 +30,7 @@ This Javascript script converts JSON data to an Excel file. It recursively proce
 3. Run the conversion script:
 
    ```bash
-   node convert-json-to-excel.js
+   node script.js
    ```
 
 4. The script will process the JSON data and create an Excel file (`output_file.xlsx`) in the same directory.
