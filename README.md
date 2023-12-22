@@ -10,7 +10,6 @@ This Javascript script converts JSON data to an Excel file. It recursively proce
 - [File Structure](#file-structure)
 - [FAQ](#faq)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Requirements
 
